@@ -30,5 +30,5 @@ Sebelum memulai, pastikan Anda sudah menginstal perangkat lunak berikut di mesin
 1. **Clone repository ini:**
 
    ```bash
-   git clone https://github.com/username/Finsera-QA-Android.git
+   git clone https://github.com/FinSera-SYNRGY7/Finsera-QA-Android.git
 
